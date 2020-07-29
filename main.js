@@ -145,8 +145,6 @@ class Pagination {
     }
 }
 
-
-
 function each(collection, cb) {
     for (let index = 0; index < collection.length; index++) {
         const element = collection[index];
